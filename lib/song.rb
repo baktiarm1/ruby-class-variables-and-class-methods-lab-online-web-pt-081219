@@ -14,6 +14,8 @@ class Song
   end 
   
   def artist(array)
+    @@artist 
+  end 
     
   
   def count 
