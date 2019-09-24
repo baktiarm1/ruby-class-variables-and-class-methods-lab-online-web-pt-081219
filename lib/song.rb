@@ -15,7 +15,7 @@ class Song
     
   end 
   
-  def artists(array)
+  def self.artists(array)
      array.uniq
   end 
     
