@@ -13,6 +13,9 @@ class Song
     
   end 
   
+  def artist(array)
+    
+  
   def count 
     @@count = count
   end 
