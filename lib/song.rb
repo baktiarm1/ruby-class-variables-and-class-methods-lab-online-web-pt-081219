@@ -15,7 +15,7 @@ class Song
   end 
   
   def artists(array)
-     
+     @@artitsts.uniq
   end 
     
   
