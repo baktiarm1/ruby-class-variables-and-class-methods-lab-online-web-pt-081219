@@ -15,7 +15,7 @@ class Song
     
   end 
   
-  def artists
+  def self.artists
      @@array.uniq
   end 
     
